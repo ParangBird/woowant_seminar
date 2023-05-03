@@ -8,12 +8,15 @@
 - 주제 : 자유 (개발을 비롯한 cs가 주가 되겠지만 다른 주제를 원한다면 선정해도 상관없음 ex: 해외 주식 동향 분석, 올더스 헉슬리의 멋진 신세계와 조지 오웰의 1984로 바라보는 한국 현대 사회 등등)
 - 형식 : 발표 형식은 자유이나 분량은 10분 이상(권장), 질문 및 토의 시간은 제한없음
 - 기타 : 발표 안하고 참가만해서 듣기만 해도 OK
+
 ---
 
 ## 제 1회
 
 ### [자바 서블릿과 스프링](https://velog.io/@parangbird/%EC%9E%90%EB%B0%94-%EC%84%9C%EB%B8%94%EB%A6%BF%EA%B3%BC-%EC%8A%A4%ED%94%84%EB%A7%81)
-### 리액트 Context
+
+### [리액트 랜더링과 상태관리, with Context](https://velog.io/@kddkdkk/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EB%A0%8C%EB%8D%94%EB%A7%81%EA%B3%BC-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-with-Context)
+
 ### Java Annotation
 
 ---
