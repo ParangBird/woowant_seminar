@@ -23,7 +23,7 @@
 
 ## 제 2회
 
-### [정렬 알고리즘 분석]
+### [정렬 알고리즘 분석](https://velog.io/@parangbird/%EC%A0%95%EB%A0%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0-1-Bubble-Sort-Selection-Sort-Insertion-Sort#%EB%A7%88%EB%AC%B4%EB%A6%AC)
 
 ---
 
